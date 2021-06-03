@@ -1,8 +1,4 @@
 # hello-world
 Just getting started
 
-Want to know something.
-
-
-
-Go find it yourself.
+Tell me about yourself
